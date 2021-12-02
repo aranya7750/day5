@@ -4,9 +4,9 @@
 <?php include_once 'jum.php'?>
 <?php include_once 'nav.php' ?>
 <?php
-if($_SESSION['user']==''){
-  header ("location:index.php");
-}
+// if($_SESSION['user']==''){
+//   header ("location:index.php");
+// }
 ?>
 <div class="container" style="margin-top:30px">
   <!--<div class="row">-->
